@@ -10,3 +10,5 @@
 #### [NumPy e Pandas](https://www.notion.so/NumPy-e-Pandas-24dec526644580ff94c5f10b05040b3a)
 
 #### [Matplotlib e Seaborn](https://www.notion.so/Matplotlib-e-Seaborn-24dec526644580a79e5ac93dcc7c334b)
+
+
