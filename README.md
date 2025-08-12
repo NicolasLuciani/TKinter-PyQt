@@ -16,5 +16,5 @@ Link da apresentação:<br>
 <br><br>
 
 Códigos da apresentação:<br>
-[Código Tkinter](PyQt_login.py) <br>
-[Código pyqt](TKinter_login.py)
+[Código PyQt](PyQt_login.py) <br>
+[Código TKinter](TKinter_login.py)
