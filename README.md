@@ -11,7 +11,7 @@
 
 #### [Matplotlib e Seaborn](https://www.notion.so/Matplotlib-e-Seaborn-24dec526644580a79e5ac93dcc7c334b)
 <br><br>
-Link da apresentação:
+Link da apresentação:<br>
 [Biblioteca de interface gráfica](https://www.canva.com/design/DAGvMqjirlI/GECfXSQWO0Ic7Zb6HbxfYw/edit)
 <br><br>
 
